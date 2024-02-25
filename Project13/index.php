@@ -111,6 +111,5 @@
     }
     echo '</div>';
     ?>
-    <!-- echo '<img src= "./image/pic.png"'; -->
 </body>
 </html>
